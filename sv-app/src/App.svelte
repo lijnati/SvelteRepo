@@ -1,5 +1,7 @@
 <script>
-  import PickColor from "./componets/PickColor.svelte";
+  // import PickColor from "./componets/PickColor.svelte";
+  import Card from "./componets/CreditCard.svelte";
 </script>
 
-<PickColor />
+<!-- <PickColor /> -->
+<Card />
