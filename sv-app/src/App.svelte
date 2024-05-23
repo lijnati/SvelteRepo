@@ -5,3 +5,7 @@
 
 <!-- <PickColor /> -->
 <Card />
+
+<style>
+<!--Style goes here -->
+</style>
